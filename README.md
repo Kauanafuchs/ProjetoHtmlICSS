@@ -1,2 +1,0 @@
-# ProjetoHtmlICSS
-arquivo do curso 
